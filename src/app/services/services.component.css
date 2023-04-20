@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(62, 58, 58);
+    padding: 50px;
+}
+#heading{
+    text-align: center;font-size: 45px;color: white;
+}
+#para{
+    color: #F1F1F1 !important;
+    text-align: center;
+}
+.card{
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.service-title{
+    color: whitesmoke;
+}
+
+.service-footer{
+    color: pink;
+    text-decoration: none;
+}

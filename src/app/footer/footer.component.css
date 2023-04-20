@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(76, 72, 72);
+    padding: 80px 0px;
+}
+.a{
+    border: 2px solid #99a0a7;
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+    display: block;
+    font-size: 16px;
+    line-height: 40px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+
+}
+.foot{
+    margin-right: 10px;
+}

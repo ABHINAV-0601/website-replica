@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(62, 58, 58);
+    padding: 50px;
+}
+.course-heading{
+    background-color: grey;
+    color: rgb(178, 178, 26);
+    text-align: center;
+    margin: 20px 590px;
+    padding: 8px 0px;
+    border-radius: 30px;
+    font-size: x-large;
+}
+.large-text{
+    text-align: center;
+    font-size: 50px;
+    color: whitesmoke;
+}
+.para{
+    text-align: center;
+    color: #F1F1F1 !important;
+}
+.course-card{
+    background: black;
+    padding: 1.2em;
+    border-radius: 8px;
+    margin: 0px 20px;
+}
+.ylw-txt{
+    color: yellow;
+}
+.row{
+    margin: 0px 40px;
+}
+.course-footer{
+    background-color: rgb(193, 193, 18);
+    display: flex;
+    cursor: pointer;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 20px;
+}
+.footer-text{
+    font-size: 12px;
+    padding: 10px;
+}
+@media screen and (max-width: 700px){
+    .row{
+        margin: 0px 0px;
+    }
+}

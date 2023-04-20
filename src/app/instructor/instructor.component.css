@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    padding: 50px;
+}
+img{
+    height: 456px;
+    width: 480px;
+    margin-left: 50px;
+}
+h2{
+    font-size: 40px;
+    line-height: 1.6;
+}
+.number{
+    color: #df7068;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    margin-right: 2em;
+}
+.ylw-txt{
+    color: yellowgreen;
+}
+@media screen and (max-width:700px) {
+    img{
+        height: 400px;
+        width: 400px;
+        margin-left: 30px;
+    }
+}

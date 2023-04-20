@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(76, 72, 72);
+    padding: 80px 0px;
+}
+.main-title{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 54px;
+    align-items: center;
+    color: #bcbae2
+}
+.text-white{
+    font-weight: 400;
+}
+.course-content{
+    background: black;
+    border-radius: 8px;
+    margin-bottom: 2em;
+}
+
+.course-content-wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    cursor: pointer;
+}
+.course-topic{
+    font-size: 14px;
+    line-height: 25px;
+    color: whitesmoke;
+}
+.answer-content-wrap{
+    padding: 0 15px 10px;
+}
+.answer-div{
+    font-size: 16px;
+    line-height: 25px;
+    color: whitesmoke;
+}
